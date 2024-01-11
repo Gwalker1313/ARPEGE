@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://ddvhq88uynghc"
+path="res://.godot/imported/1BITTopDownMusics - Track 03 (1BIT Eerie).wav-2b2bc6f8783d0b0fedb40360834a05d6.sample"
+
+[deps]
+
+source_file="res://Assets/8BIT CanariPack TopDown/MUSIC/1BITTopDownMusics - Track 03 (1BIT Eerie).wav"
+dest_files=["res://.godot/imported/1BITTopDownMusics - Track 03 (1BIT Eerie).wav-2b2bc6f8783d0b0fedb40360834a05d6.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

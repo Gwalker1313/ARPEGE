@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bs57i6th0cfh4"
+path="res://.godot/imported/Hurt01.wav-595f3ab92ac29326ad7f8f06efe1df94.sample"
+
+[deps]
+
+source_file="res://Assets/8BIT CanariPack TopDown/SFX/Hurt01.wav"
+dest_files=["res://.godot/imported/Hurt01.wav-595f3ab92ac29326ad7f8f06efe1df94.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

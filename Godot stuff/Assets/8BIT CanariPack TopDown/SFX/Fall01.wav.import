@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://qfl2lwli5o6v"
+path="res://.godot/imported/Fall01.wav-4201e54fdfe17f9c749e163aa1d27f21.sample"
+
+[deps]
+
+source_file="res://Assets/8BIT CanariPack TopDown/SFX/Fall01.wav"
+dest_files=["res://.godot/imported/Fall01.wav-4201e54fdfe17f9c749e163aa1d27f21.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

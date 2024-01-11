@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cujl7slobvaut"
+path="res://.godot/imported/Attack01.wav-e46eb3b29372b28e92d6a1c6eea1c561.sample"
+
+[deps]
+
+source_file="res://Assets/8BIT CanariPack TopDown/SFX/Attack01.wav"
+dest_files=["res://.godot/imported/Attack01.wav-e46eb3b29372b28e92d6a1c6eea1c561.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
