@@ -17,8 +17,13 @@ func _physics_process(delta):
 	
 	update_animation_parameters(input_direction)
 	
-	# Update velocity
-	velocity = input_direction * move_speed
+	# Update velocity:
+	# If the player is pressing either "shift" key, give the player a sprint speed.
+	if(Input.is_key_pressed(KEY_SHIFT)):
+		velocity = input_direction * (move_speed + 50)
+	else:
+		velocity = input_direction * move_speed
+	
 	
 	# Move and slide function uses velocity of character body to move character on map
 	move_and_slide()
