@@ -280,3 +280,5 @@ parameters/Walk/blend_position = Vector2(0, 0)
 stream = ExtResource("3_1urmy")
 
 [node name="Timer" type="Timer" parent="PlayerAudio"]
+wait_time = 0.6
+autostart = true
