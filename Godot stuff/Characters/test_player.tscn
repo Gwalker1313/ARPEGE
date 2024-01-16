@@ -2,7 +2,7 @@
 
 [ext_resource type="Script" path="res://Characters/test_player.gd" id="1_fo8qr"]
 [ext_resource type="Texture2D" uid="uid://davhp4oueokvs" path="res://Assets/spritetest.png" id="1_xbjbo"]
-[ext_resource type="AudioStream" uid="uid://b178svgfyf8kl" path="res://Assets/Sound FX/Player Footstep Gravel.wav" id="3_1urmy"]
+[ext_resource type="AudioStream" uid="uid://b178svgfyf8kl" path="res://Assets/Sound FX/Characters/Footsteps/Footseps_Human/Armor_Heavy/Player Footstep Gravel.wav" id="3_1urmy"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_evys6"]
 size = Vector2(13, 13)
