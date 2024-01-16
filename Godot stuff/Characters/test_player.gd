@@ -42,9 +42,7 @@ func update_animation_parameters(move_input : Vector2):
 	if(velocity != Vector2.ZERO):
 		animation_tree.set("parameters/Walk/blend_position", move_input)
 		animation_tree.set("parameters/Idle/blend_position", move_input)
-		#if($PlayerAudio/Timer.time_left <= 0):
-			#$PlayerAudio/Footstep_Gravel.play()
-			#$PlayerAudio/Timer.start(0.2)
+		
 func pick_new_state():
 	if(velocity != Vector2.ZERO):
 		state_machine.travel("Walk")
